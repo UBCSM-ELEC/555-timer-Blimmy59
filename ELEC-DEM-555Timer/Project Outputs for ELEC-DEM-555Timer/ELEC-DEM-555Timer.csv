@@ -1,0 +1,6 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"Cap","Capacitor","C1, C2","RAD-0.3","Cap","2"
+"Diode","Default Diode","D1","SMC","Diode","1"
+"Res1","Resistor","R1, R2, R3","AXIAL-0.3","Res1","3"
+"NE555","555 Timing Circuit IC 8-Pin DIP 8-Pin DIP Timer ICThe NE555 monolithic timing circuit is a highly stable controller c...","U1","DIP794W45P254L1060H508Q8","NE555","1"
